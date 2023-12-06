@@ -1,0 +1,6 @@
+ Info    LogSession: Starting a new log session at [E:\$SysReset\Logs]
+ Info    Session: Checking main OS for a test ID
+ Info    Telemetry: Checking [E:] for a test ID
+ Info    Registry: Loading SOFTWARE hive from offline OS E:\Windows
+ Info    Registry: Loading offline registry hive from [E:\Windows\System32\config\SOFTWARE]
+ Info    Telemetry: No test ID present

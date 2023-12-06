@@ -1,0 +1,17 @@
+Name | Age | Gender | City 
+Balaji | 23 | Male | Boduvarpatty 
+Vatsan | 23 | Male | Trichy 
+Logesh | 23 | Male | Pollachi 
+Ragul | 25 | Male | krishnagiri 
+Rishav | 26 | Male | Bihar 
+Govind | 30 | Male | Trichy 
+sankar | 23 | Male | kumbakonam 
+Ganesh | 25 | Male | Delhi 
+Narmadha | 23 | Female | Bahamas 
+Tapti| 23 | Male | Tiruchengode
+Manish | 23 | Male | Maldives 
+Paul | 25 | Male | Mumbai 
+Vetri | 26 | Male | virupattchi 
+Gopal | 30 | Male | Dandellin
+Om birla | 23 | Male | Aravalli 
+Bohra | 25 | Male | Goa 

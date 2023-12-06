@@ -1,0 +1,8 @@
+Balaji | 23 | Male | Boduvarpatty
+Vatsan | 23 | Male | Trichy
+Logesh | 23 | Male | Pollachi
+Ragul  | 25 | Male | krishnagiri
+Rishav | 26 | Male | Bihar
+Govind | 30 | Male | Trichy
+sankar | 23 | Male | kumbakonam
+Ganesh | 25 | Male | Delhi
