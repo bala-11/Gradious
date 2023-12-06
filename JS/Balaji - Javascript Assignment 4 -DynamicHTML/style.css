@@ -1,0 +1,31 @@
+.table{
+    display: table;
+    margin-left: 13%;
+    width:80%;
+}
+.header{
+    display: table-header-group;
+    background-color:#cfe2f3;
+}
+.row-group{
+    display: table-row-group;
+}
+.row-data{
+    display: table-row;
+}
+.row-data:nth-child(odd){
+    background-color:#fff2cc;
+}
+
+.row-data:nth-child(even){
+    background-color:#d9ead3;
+}
+.data{
+    display: table-cell;
+    padding:20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/* odd child background-color:#fff2cc; */
+/* even child  background-color:#d9ead3;*/
