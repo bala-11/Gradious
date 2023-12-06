@@ -1,0 +1,15 @@
+#head{
+    text-align: center;
+    font-size: 28px;
+    color: rgb(0, 7, 13);
+}
+
+img{
+   width:500px;
+   height: 500px;
+   margin-left: 30%;
+}
+
+body{
+    background-color: blue;
+}

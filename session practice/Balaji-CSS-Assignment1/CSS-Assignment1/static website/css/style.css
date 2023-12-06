@@ -1,0 +1,108 @@
+/* Nav bar */
+*{
+    margin: 0;
+}
+.navbar{
+    width:100%;
+    background-color: darkslategrey;
+    overflow: auto;
+}
+
+.navbar a{
+    float: right;
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    padding: 15px;
+}
+
+.navbar a:hover{
+    background-color: #000;
+}
+
+.active{
+    background-color: #a4a4a4;
+}
+
+#name{
+    float: left;
+    font-size: 25px;
+    color: white;
+    padding: 15px;
+}
+.section{
+    display: flex;
+}
+
+.text{
+    font-size: 40px;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-bottom: 2%;
+    color: blue;
+
+}
+
+/* footer */
+
+.footer2{
+    /* position: fixed; */
+    width: 100%;
+    left: 0;
+    bottom: 47;
+    background-color: rgb(72, 140, 219);
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+    overflow: hidden;
+    padding-bottom: 35px;
+    padding-top: 25px;
+}
+
+footer{
+    /* position: fixed; */
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color: darkslategrey;
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    padding: 5px;
+}
+
+/* contact.html style */
+
+.phone{
+    margin-top: 10%;
+    margin-left: 20%;
+    font-size: 30px;
+    color: blue;
+}
+
+/* about */
+
+.about{
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 20px;
+    color: blue;
+}
+
+
+
+/* projects */
+.project{
+    display: flex;
+    /* flex-direction:row; */
+    font-size: 15px;
+    border: 1px solid black;
+}
+.para{
+    margin: 0 auto;
+    font-size: 25px;
+    text-align: left;
+    color: blue;
+    background-color: rgb(248, 238, 223);
+}

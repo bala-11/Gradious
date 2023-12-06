@@ -1,0 +1,30 @@
+body{
+    background-color: palegoldenrod;
+}
+
+.right{
+    text-align: right;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: black;
+}
+
+.para{
+    text-align: left;
+    font-size: 20px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.end{
+    text-align: left;
+    font-size: 20px;
+    color: black;
+}
+
+.center{
+    text-align: center;
+    font-size: 20px;
+    color:black
+}

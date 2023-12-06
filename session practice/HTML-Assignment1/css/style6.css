@@ -1,0 +1,36 @@
+h1{
+    color: black;
+    text-align: center;
+    margin: 50px;
+}
+
+h2{
+    text-align: center;
+    margin: 50px;
+    color:chartreuse
+}
+
+h3{
+    text-align: center;
+    margin: 50px;
+    color: brown;
+}
+h4{
+    text-align: center;
+    margin: 50px;
+    color: darkblue;
+}
+
+h5{
+    text-align: center;
+    margin: 50px;
+    color: gold;
+}
+h6{
+    text-align: center;
+    margin: 50px;
+    color: maroon;
+}
+body{
+    background-color: powderblue;
+}

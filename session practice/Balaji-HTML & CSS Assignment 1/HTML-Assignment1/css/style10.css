@@ -1,0 +1,11 @@
+body{
+    background-color: paleturquoise;
+}
+
+div{
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+    text-decoration: dotted;
+    margin: 50px;
+}

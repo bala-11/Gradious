@@ -1,0 +1,27 @@
+body{
+    background-color: powderblue;
+}
+
+.text1{
+    font-size: xx-large;
+    text-align: center;
+    margin: 50px;
+    font-weight: bold;
+    color: darkred;
+}
+
+.text2{
+    font-size: xx-large;
+    text-align: center;
+    margin: 50px;
+    font-style: italic;
+    color: black;
+}
+
+.text3{
+    font-size: xx-large;
+    text-align: center;
+    margin: 50px;
+    text-decoration: underline;
+    color: green;
+}
