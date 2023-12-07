@@ -1,13 +1,16 @@
-.para1{
+.para1 {
     text-align: right;
     margin-left: 50px;
 }
-.para2{
+
+.para2 {
     text-align: justify;
 }
-.para3{
+
+.para3 {
     text-align: left;
 }
-.para4{
+
+.para4 {
     text-align: center;
 }

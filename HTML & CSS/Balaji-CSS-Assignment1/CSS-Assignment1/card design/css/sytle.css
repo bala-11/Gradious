@@ -1,33 +1,37 @@
-div{
+div {
     text-align: center;
     margin-top: 10%;
 }
 
-h3{
+h3 {
     text-align: center;
     margin: 10%;
 }
-span{
+
+span {
     padding: 70px 70px;
     border: 2px solid blue;
     background-color: #add8e6;
     margin: 10px;
     font-size: 30px;
-} 
+}
 
-span.red:hover{
+span.red:hover {
     background-color: red;
     cursor: pointer;
 }
-span.green:hover{
+
+span.green:hover {
     background-color: green;
     cursor: pointer;
 }
-span.blue:hover{
+
+span.blue:hover {
     background-color: blue;
     cursor: pointer;
 }
-span.yellow:hover{
+
+span.yellow:hover {
     background-color: yellow;
     cursor: pointer;
 }

@@ -1,15 +1,15 @@
-#head{
+#head {
     text-align: center;
     font-size: 28px;
     color: rgb(0, 7, 13);
 }
 
-img{
-   width:500px;
-   height: 500px;
-   margin-left: 30%;
+img {
+    width: 500px;
+    height: 500px;
+    margin-left: 30%;
 }
 
-body{
+body {
     background-color: blue;
 }

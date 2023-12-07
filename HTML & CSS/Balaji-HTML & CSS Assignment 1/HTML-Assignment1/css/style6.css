@@ -1,36 +1,39 @@
-h1{
+h1 {
     color: black;
     text-align: center;
     margin: 50px;
 }
 
-h2{
+h2 {
     text-align: center;
     margin: 50px;
-    color:chartreuse
+    color: chartreuse
 }
 
-h3{
+h3 {
     text-align: center;
     margin: 50px;
     color: brown;
 }
-h4{
+
+h4 {
     text-align: center;
     margin: 50px;
     color: darkblue;
 }
 
-h5{
+h5 {
     text-align: center;
     margin: 50px;
     color: gold;
 }
-h6{
+
+h6 {
     text-align: center;
     margin: 50px;
     color: maroon;
 }
-body{
+
+body {
     background-color: powderblue;
 }

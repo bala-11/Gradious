@@ -1,22 +1,22 @@
-.para1{
+.para1 {
     text-align: left;
     color: black;
     margin-top: 90px;
 
 }
 
-.para2{
+.para2 {
     text-align: right;
     color: yellowgreen;
     margin-top: 30px;
 }
 
-.para3{
+.para3 {
     text-align: center;
     color: brown;
-    margin:50px;
+    margin: 50px;
 }
 
-body{
+body {
     background-color: powderblue;
 }

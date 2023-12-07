@@ -1,11 +1,11 @@
-body{
+body {
     background-color: powderblue;
 }
 
-p{
+p {
     margin-top: 80px;
     font-style: italic;
-    font-size:xx-large;
+    font-size: xx-large;
     text-align: center;
     color: black;
 }

@@ -1,56 +1,42 @@
-
-/* laptop style - #89EABF
-show 3 pictures ina a row
-*/
-
-/* for tab - #89D4EA
-show 2 pictures in a row
-*/
-
-/* mobile phones - #F3EEEE
-show 1 pictures in a row
-*/
-
 body {
-    background-color: #89eabf;
-  }
+  background-color: #89eabf;
+}
 
-  @media only screen and (max-width: 768px) {
-    body {
-      background-color: #89d4ea;
-      .img
-          {
-            height: 320px;
-            width: 320px;
-          }
+@media only screen and (max-width: 768px) {
+  body {
+    background-color: #89d4ea;
+
+    .img {
+      height: 320px;
+      width: 320px;
     }
+  }
 
 }
 
-    @media only screen and (max-width: 560px) {
-        body {
-          background-color: #f3eeee;
-          .box{
-            border-left: 95px solid black;
-            border-right: 95px solid black;
-            
-          }
-          .img
-          {
-            height: 350px;
-            width: 350px;
-          }
-        }
+@media only screen and (max-width: 560px) {
+  body {
+    background-color: #f3eeee;
+
+    .box {
+      border-left: 95px solid black;
+      border-right: 95px solid black;
+
     }
 
-  .text
-  {
-    margin-left: 35px;
-    position: relative;
+    .img {
+      height: 350px;
+      width: 350px;
+    }
   }
-  
- .box
- {
+}
+
+.text {
+  margin-left: 35px;
+  position: relative;
+}
+
+.box {
   display: inline-table;
   border: 5px solid black;
   color: white;
@@ -58,11 +44,10 @@ body {
   margin-bottom: 15px;
   margin-left: 32px;
   text-align: center;
- }
+}
 
- span{
+span {
 
   display: block;
 
- }
-
+}

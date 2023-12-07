@@ -1,8 +1,8 @@
-body{
+body {
     background-color: powderblue;
 }
 
-.text1{
+.text1 {
     font-size: xx-large;
     text-align: center;
     margin: 50px;
@@ -10,7 +10,7 @@ body{
     color: darkred;
 }
 
-.text2{
+.text2 {
     font-size: xx-large;
     text-align: center;
     margin: 50px;
@@ -18,7 +18,7 @@ body{
     color: black;
 }
 
-.text3{
+.text3 {
     font-size: xx-large;
     text-align: center;
     margin: 50px;
