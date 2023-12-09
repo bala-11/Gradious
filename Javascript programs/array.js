@@ -150,4 +150,14 @@ for(i=0;i<O;i++){
     right[0] = temp;
 }
 
-console.log("Right rotate :",...right)
+console.log("Right rotate :",...right);
+
+
+/**
+ * Second largest number in an array
+ */
+
+var arr5 = [1,3,4,5,992,34898,482,99239,73497,34,2,33434,2,1,20];
+arr5.sort((a,b)=>a-b);
+console.log("second largest : ", arr5[arr5.length-2]);
+
