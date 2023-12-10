@@ -1,4 +1,9 @@
-var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+/**
+ * Binary search
+ */
+
+var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16];
+arr.sort((a, b) => a - b);
 
 function binarySearch(arr, num) {
   var start = 0;
@@ -14,6 +19,9 @@ function binarySearch(arr, num) {
       end = mid - 1;
     }
   }
-  return -1;
 }
-console.log(binarySearch(arr, 8));
+console.log("Index:",binarySearch(arr, 13));
+
+/**
+ * 
+ */
